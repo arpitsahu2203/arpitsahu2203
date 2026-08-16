@@ -148,7 +148,7 @@ A DSA practice tracker I designed independently (no tutorial) to build self-suff
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsahu2203&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=arpitsahu2203&hide_border=true" height="165"/>
 </p>
 
 <br>
