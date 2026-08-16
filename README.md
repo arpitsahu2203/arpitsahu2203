@@ -143,6 +143,11 @@ A DSA practice tracker I designed independently (no tutorial) to build self-suff
 ### 📊&nbsp; GitHub Stats
 
 <p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=arpitsahu2203&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arpitsahu2203&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=arpitsahu2203&hide_border=true" height="165"/>
 </p>
 
