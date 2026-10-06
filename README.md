@@ -132,8 +132,8 @@
 ### 🎓&nbsp; Education & Background
 
 - **Bachelor of Technology (B.Tech) in Computer Science & Engineering**
-  - *Lakshmi Narain College of Technology, Bhopal (LNCT / RGPV)*
-  - 6th Semester · Batch of 2027 · **CGPA: 7.39**
+  - *Lakshmi Narain College of Technology, Bhopal (RGPV)*
+  - 7th Semester · Batch of 2027 · **CGPA: 7.49**
 
 <br>
 
