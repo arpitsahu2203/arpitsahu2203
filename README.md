@@ -114,21 +114,6 @@
 
 ---
 
-### 📊&nbsp; GitHub Activity & Performance
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=arpitsahu2203&show_icons=true&theme=tokyonight&hide_border=true" alt="Arpit Sahu's GitHub Stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arpitsahu2203&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img height="160" src="https://streak-stats.demolab.com/?user=arpitsahu2203&theme=tokyonight&hide_border=true&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&background=090d16" alt="GitHub Streak"/>
-</div>
-
-<br>
-
----
-
 ### 🎓&nbsp; Education & Background
 
 - **Bachelor of Technology (B.Tech) in Computer Science & Engineering**
