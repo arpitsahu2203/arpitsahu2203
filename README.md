@@ -80,16 +80,6 @@
   </tr>
 </table>
 
-<details>
-  <summary><b>📂 Explore More Backend Repositories & APIs</b></summary>
-  <br>
-  <ul>
-    <li><b><a href="https://github.com/arpitsahu2203">Employee Management REST API</a></b> — Secure Spring Boot service featuring CRUD lifecycle, pagination, and sorting.</li>
-    <li><b><a href="https://github.com/arpitsahu2203">Journal Application</a></b> — Spring Boot + JPA/Hibernate backend with secure multipart file storage and user authentication.</li>
-    <li><b><a href="https://github.com/arpitsahu2203">Movie Ticket Booking Portal</a></b> — Core enterprise Java build utilizing Servlets, JSP, and raw JDBC connection pooling on Apache Tomcat.</li>
-  </ul>
-</details>
-
 <br>
 
 ---
